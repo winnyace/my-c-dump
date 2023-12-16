@@ -8,7 +8,7 @@ int main()
     printf("input = ");
     if (!scanf("%u", &input))
     {
-        printf("give me a positive number reeeee!");
+        printf("give me a number reeeee!");
         exit(1);
     }
     if (input < 0)
